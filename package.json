@@ -1,0 +1,15 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "introduzione blog server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "author": "Karnjyot Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
